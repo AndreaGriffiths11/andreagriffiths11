@@ -7,7 +7,7 @@ I'm a Community Support Human @GitHub, 🇨🇴 Immigrant Latina in technology, 
 
 🏣 I'm currently learning:
 - All things Discourse since is our new platform
-- GitHub CLI because is awesome
+- [GitHub CLI](https://cli.github.com/) because is awesome
 - To work from home with a full house
 
 💡 Ask me about:
