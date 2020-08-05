@@ -1,5 +1,23 @@
 # Hiya! I'm Andrea, my pronouns are she/her/hers.
 
+<p align="center">
+  <a href="https://github.com/andreagriffiths11" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=andreagriffiths11&title_color=333&text_color=777" alt="Andrea's Stats" >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/andrealiliana">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/alacolombia">
+    <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
+  </a>
+  <br><br>
+  
+Fun stats courtesy of [git-badges](https://pufler.dev/git-badges) 
+
 I'm a Community Support Human @GitHub, 🇨🇴 Immigrant Latina in technology, OSS superfan, & breast cancer slayer. 
 
 🧰  I'm currently working on:
@@ -12,9 +30,6 @@ I'm a Community Support Human @GitHub, 🇨🇴 Immigrant Latina in technology, 
 
 💡 Ask me about:
 - Anything, I'm always happy to help in any way that I can.
-
-📲 How to reach me: 
-- I'm [alacolombia](https://twitter.com/ALAColombia) on twitter 🐦
 
 😎 Kinda fun facts:
 - 🎮 ACNH is my fave  
