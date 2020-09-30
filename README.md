@@ -18,7 +18,7 @@
   
 Fun stats courtesy of [git-badges](https://pufler.dev/git-badges) 
 
-I'm a Community Support Human @GitHub, 🇨🇴 Immigrant Latina in technology, OSS superfan, & breast cancer slayer. 
+I'm a PM @GitHub, 🇨🇴 Immigrant Latina in technology, OSS superfan, & breast cancer slayer. 
 
 🧰  I'm currently working on:
 - Supporting **you** in GitHub's [Community Forum](https://github.community/) 
