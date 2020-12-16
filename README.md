@@ -1,4 +1,4 @@
-# Hiya! I'm Andrea, my pronouns are she/her/hers.
+# Hiya! I'm Andrea, my pronouns are she/her/hers. Read.me [profile](https://github.com/readme/andrea-griffiths)
 
 <p align="center">
   <a href="https://github.com/andreagriffiths11" class="rich-diff-level-one">
