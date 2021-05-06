@@ -1,36 +1,40 @@
-# Hiya! I'm Andrea, my pronouns are she/her/hers. Read.me [profile](https://github.com/readme/andrea-griffiths)
+## Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths), my pronouns are she/her/hers. 
+I'm a Sr. PM @GitHub, 🧰  I'm currently working on Product/DevRel.
 
-<p align="center">
-  <a href="https://github.com/andreagriffiths11" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=andreagriffiths11&title_color=333&text_color=777" alt="Andrea's Stats" >
-  </a>
-</p>
-
-<p align="center">
+💡 Ask me about:
+- Anything, I'm always happy to help in any way that I can. You can find me organizing: [International communities](https://www.meetup.com/pro/github-virtual-meetup/), [30 minutes to merge](https://github.community/tag/30-minutes-to-merge) and in all the places 
   <a href="https://linkedin.com/in/andrealiliana">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
   </a>
-  &emsp;
   <a href="https://twitter.com/alacolombia">
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
   </a>
-  <br><br>
+  <a href="https://vm.tiktok.com/ZMeq2NRYh/">
+    <img src="https://user-images.githubusercontent.com/20666190/117302597-cec82180-ae49-11eb-854e-9c1ba1d8a355.png" width="26px"/>
+  </a>
+  <a href="https://t.me/andreagriffiths11">
+    <img src="https://user-images.githubusercontent.com/20666190/117302981-354d3f80-ae4a-11eb-8017-fe7b21ffb80c.png" width="26px"/>
+
+![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagriffiths11&count_private=true&show_icons=true&theme=radical)
+   
+_Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
+## 😎 Kinda fun facts:
+- I a mom to two boys and two 🐶 🐶 
+- My partner is Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+- Once upon a time I was an NCO in the US Army and I volunteer at [@operationcode](https://github.com/OperationCode)
+- Sticky toffee pudding from the [Nant Ddu](https://nant-ddu-lodge.co.uk/) is my favorite dessert of all time
+- Proud founding member of the [@octogatos](https://github.com/Octogatos)
+- I'm a survivor
+
+<p align="center">
   
-Fun stats courtesy of [git-badges](https://pufler.dev/git-badges) 
+<img width="300" alt="Screen Shot 2021-05-06 at 8 33 17 AM" src="https://user-images.githubusercontent.com/20666190/117298862-d685c700-ae45-11eb-91af-cb7d28d2582e.png">
+<img width="300" alt="Screen Shot 2021-05-06 at 8 33 44 AM" src="https://user-images.githubusercontent.com/20666190/117298808-c968d800-ae45-11eb-8039-56f762fb2689.png">
+<img width="320" alt="Screen Shot 2021-05-06 at 8 43 01 AM" src="https://user-images.githubusercontent.com/20666190/117300016-25802c00-ae47-11eb-9569-bd151a68a16f.png">
+<img width="274" alt="Screen Shot 2021-05-06 at 8 53 26 AM" src="https://user-images.githubusercontent.com/20666190/117301329-8b20e800-ae48-11eb-9ca7-70691b7f5e3b.png">
+s<img width="300" alt="Screen Shot 2021-05-06 at 8 37 46 AM" src="https://user-images.githubusercontent.com/20666190/117299546-ad196b00-ae46-11eb-9aa8-e9ded72df893.png">
+<img width="363" alt="Screen Shot 2021-05-06 at 8 41 16 AM" src="https://user-images.githubusercontent.com/20666190/117299697-d4703800-ae46-11eb-917a-21721c2b37be.png">
+<img width="528" alt="Screen Shot 2021-05-06 at 8 35 33 AM" src="https://user-images.githubusercontent.com/20666190/117304804-25cef600-ae4c-11eb-8fb7-6ce913d22c6a.png">
 
-I'm a PM @GitHub, 🇨🇴 Immigrant Latina in technology, OSS superfan, & breast cancer slayer. 
 
-🧰  I'm currently working on:
-- Supporting **you** in GitHub's [Community Forum](https://github.community/) 
 
-🏣 I'm currently learning:
-- All things Discourse since is our new platform
-- [GitHub CLI](https://cli.github.com/) because is awesome
-- To work from home with a full house
-
-💡 Ask me about:
-- Anything, I'm always happy to help in any way that I can.
-
-😎 Kinda fun facts:
-- 🎮 ACNH is my fave  
-- I have two littles ages 4 & 7 and 🐶 the best goldendoodle ever
