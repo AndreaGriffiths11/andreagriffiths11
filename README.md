@@ -18,6 +18,10 @@ I'm a Sr. PM @GitHub, 🧰  I'm currently working on Product/DevRel.
 ![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagriffiths11&count_private=true&show_icons=true&theme=radical)
    
 _Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
+  
+![PHOTO-2021-05-25-21-27-55](https://user-images.githubusercontent.com/20666190/119746528-aa66d000-be5e-11eb-96bb-c91ed0d01b4e.jpg)
+
+_Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
 ## 😎 Kinda fun facts:
 - I a mom to two boys and two 🐶 🐶 
 - My partner is Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
