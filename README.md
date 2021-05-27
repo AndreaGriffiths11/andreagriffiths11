@@ -1,8 +1,8 @@
 ## Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths), my pronouns are she/her/hers. 
-I'm a Sr. PM @GitHub, 🧰  I'm currently working on Product/DevRel.
+I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel.
 
 💡 Ask me about:
-- Anything, I'm always happy to help in any way that I can. You can find me organizing: [International communities](https://www.meetup.com/pro/github-virtual-meetup/), [30 minutes to merge](https://github.community/tag/30-minutes-to-merge) and in all the places 
+- Anything, I'm always happy to help in any way that I can. You can find me organizing: [Global community Meetups](https://www.meetup.com/pro/github-virtual-meetup/), [30 minutes to merge](https://github.community/tag/30-minutes-to-merge) and in all the places 
   <a href="https://linkedin.com/in/andrealiliana">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
   </a>
@@ -29,6 +29,7 @@ _Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
 - Sticky toffee pudding from the [Nant Ddu](https://nant-ddu-lodge.co.uk/) is my favorite dessert of all time
 - Proud founding member of the [@octogatos](https://github.com/Octogatos)
 - I'm a survivor
+- SoberAF
 
 <p align="center">
   
