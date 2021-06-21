@@ -19,7 +19,7 @@ I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel
    
 _Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
   
-![PHOTO-2021-05-25-21-27-55](https://user-images.githubusercontent.com/20666190/119746528-aa66d000-be5e-11eb-96bb-c91ed0d01b4e.jpg)
+![Andreagriffiths11's GitHub stats](https://user-images.githubusercontent.com/20666190/122810850-d3338700-d29d-11eb-91cd-5b741f1df909.png)
 
 _Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
 ## 😎 Kinda fun facts:
