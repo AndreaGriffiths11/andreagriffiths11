@@ -11,7 +11,7 @@ I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel
   <a href="https://twitter.com/alacolombia">
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
   </a>
-  <a href="https://www.tiktok.com/@alacolombia11/">
+  <a href="https://www.tiktok.com/@alacolombiadev/">
     <img src="https://user-images.githubusercontent.com/20666190/117302597-cec82180-ae49-11eb-854e-9c1ba1d8a355.png" width="26px"/>
   </a>
   <a href="https://t.me/andreagriffiths11">
