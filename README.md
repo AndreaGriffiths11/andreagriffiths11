@@ -31,7 +31,6 @@ _Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
 - Sticky toffee pudding from the [Nant Ddu](https://nant-ddu-lodge.co.uk/) is my favorite dessert of all time
 - Proud founding member of the [@octogatos](https://github.com/Octogatos)
 - I'm a survivor
-- SoberAF
 
 <p align="center">
   
