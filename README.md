@@ -21,9 +21,17 @@ I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel
    
 _Fun stats courtesy of [@anuraghazra](anuraghazra/github-readme-stats)_ 
   
-![Andreagriffiths11's GitHub stats](https://user-images.githubusercontent.com/20666190/122810850-d3338700-d29d-11eb-91cd-5b741f1df909.png)
-
+![Andreagriffiths11's bio](https://user-images.githubusercontent.com/20666190/122810850-d3338700-d29d-11eb-91cd-5b741f1df909.png)
 _Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)_
+
+## Last stream
+
+<a href="https://www.youtube.com/live/_1-jFB9kfAY?feature=share">
+    <img src="https://user-images.githubusercontent.com/20666190/229819545-eb4caf14-a5b2-42f6-89ee-b3f5abf0c7fd.png" width="320px"/>
+    
+ _Learn to use [GitHub Codespaces in Spanish](https://www.youtube.com/live/_1-jFB9kfAY?feature=share)_
+
+
 ## 😎 Kinda fun facts:
 - I a mom to two boys and two 🐶 🐶 
 - My partner is Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
