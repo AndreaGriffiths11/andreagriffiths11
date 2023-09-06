@@ -9,7 +9,7 @@ I'm a Sr. Product Manager @GitHub, 🧰  I'm currently working on Product/DevRel
   <a href="https://www.linkedin.com/in/andreagriffiths11/">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
   </a>
-  <a href="https://twitter.com/alacolombia">
+  <a href="https://twitter.com/alacolombiadev">
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
   </a>
   <a href="https://www.tiktok.com/@alacolombiadev/">
