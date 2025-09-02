@@ -16,21 +16,11 @@
 - Anything else - I'm always happy to help!
 
 ## Connect with me
-<a href="https://github.com/andreagriffiths11">
-    <img src="https://img.icons8.com/color/48/000000/github.png" width="26px"/>
-</a>
 <a href="https://www.linkedin.com/in/alacolombiadev/">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
 </a>
 <a href="https://twitter.com/alacolombiadev">
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
-</a>
-<a href="https://www.tiktok.com/@alacolombiadev/">
-    <img src="https://user-images.githubusercontent.com/20666190/117302597-cec82180-ae49-11eb-854e-9c1ba1d8a355.png" width="26px"/>
-</a>
-<a href="https://t.me/andreagriffiths11">
-    <img src="https://user-images.githubusercontent.com/20666190/117302981-354d3f80-ae4a-11eb-8017-fe7b21ffb80c.png" width="26px"/>
-</a>
 
 ## 📊 GitHub Stats
 ![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagriffiths11&count_private=true&show_icons=true&theme=radical)
