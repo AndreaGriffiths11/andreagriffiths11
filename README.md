@@ -1,53 +1,60 @@
 # Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths) 👋
 
-**Pronouns:** she/her/hers  
-**Role:** Senior Developer Advocate @GitHub  
-
 ## What I'm working on
-🧰 Developer Relations and AI-assisted development  
-✍️ Writing for [The GitHub Blog](https://github.blog/author/andreagriffiths11/) on GitHub Copilot, security, and developer workflows  
-🎙️ Speaking at conferences and appearing on podcasts like RedMonk Conversations  
-🛠️ Building open source developer tools like [Team X-Ray](https://github.com/andreagriffiths11) VS Code extension  
+
+🚢 Writing [Main Branch](https://mainbranch.beehiiv.com/) – a weekly newsletter about dev tools and fundamentals (no AI hype, just features that help you ship)  
+🎙️ Hosting [The GitHub Podcast](https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194)), [Open Source Friday](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P), and [Checkout]([https://www.youtube.com/@GitHub](https://www.youtube.com/playlist?list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW))  
+✍️ Writing for [The GitHub Blog](https://github.blog/author/andreagriffiths11/) on GitHub Copilot, developer workflows, and security  
+🧰 Building demos and talking to product teams about what developers actually need  
+🛠️ Creating open source developer tools  
 
 ## 💡 Ask me about
-- Open source community building
+
+- GitHub features and workflows (PRs, Actions, Projects)
 - Developer advocacy and DevRel
-- GitHub features and best practices
+- Building developer communities
+- Open source contribution and maintainership
 - Anything else - I'm always happy to help!
 
-## Connect with me
-<a href="https://www.linkedin.com/in/alacolombiadev/">
+## 📬 Connect with me
+
+<a href="https://mainbranch.beehiiv.com/">
+    <img src="https://img.shields.io/badge/Newsletter-Main_Branch-blue?style=flat&logo=substack" alt="Main Branch Newsletter"/>
+</a>
+<a href="https://www.youtube.com/@acolombiadev">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="26px"/>
+</a>
+<a href="https://www.linkedin.com/in/acolombiadev/">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
 </a>
-<a href="https://twitter.com/alacolombiadev">
+<a href="https://twitter.com/acolombiadev">
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
+</a>
 
 ## 📊 GitHub Stats
+
 ![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagriffiths11&count_private=true&show_icons=true&theme=radical)
 
 *Fun stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)*
 
 ## 🎨 Virtual Bio
+
 ![Andreagriffiths11's bio](https://user-images.githubusercontent.com/20666190/122810850-d3338700-d29d-11eb-91cd-5b741f1df909.png)
 
 *Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)*
 
-## 🎥 Latest Content
-<a href="https://www.youtube.com/live/_1-jFB9kfAY?feature=share">
-    <img src="https://user-images.githubusercontent.com/20666190/229819545-eb4caf14-a5b2-42f6-89ee-b3f5abf0c7fd.png" width="320px"/>
-</a>
-
-*[Learn to use GitHub Codespaces in Spanish](https://www.youtube.com/live/_1-jFB9kfAY?feature=share)*
-
 ## 😎 Fun facts about me
+
 - Mom to two boys and two dogs 🐶🐶
 - My partner is Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- Former NCO in the US Army, now volunteer at [@operationcode](https://github.com/OperationCode)
+- Former NCO in the US Army
+- Learned to code through [freeCodeCamp](https://www.freecodecamp.org/) during lunch breaks in 2016
 - Sticky toffee pudding from [Nant Ddu](https://nant-ddu-lodge.co.uk/) is my favorite dessert
 - Proud founding member of [@octogatos](https://github.com/Octogatos)
-- I'm a survivor
+- I'm a breat cancer survivor
 
 ## 🏆 Some highlights
+
 <p align="center">
 <img width="300" alt="Screen Shot 2021-05-06 at 8 33 17 AM" src="https://user-images.githubusercontent.com/20666190/117298862-d685c700-ae45-11eb-91af-cb7d28d2582e.png">
 <img width="300" alt="Screen Shot 2021-05-06 at 8 33 44 AM" src="https://user-images.githubusercontent.com/20666190/117298808-c968d800-ae45-11eb-8039-56f762fb2689.png">
