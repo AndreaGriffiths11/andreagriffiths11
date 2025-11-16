@@ -2,11 +2,21 @@
 
 ## What I'm working on
 
-🚢 Writing [Main Branch](https://mainbranch.beehiiv.com/) – a weekly newsletter about dev tools and fundamentals (no AI hype, just features that help you ship)  
-🎙️ Hosting [The GitHub Podcast](https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194), [Open Source Friday](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P), and [Checkout](https://www.youtube.com/playlist?list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW)
-✍️ Writing for [The GitHub Blog](https://github.blog/author/andreagriffiths11/) on GitHub Copilot, developer workflows, and security  
-🧰 Building demos and talking to product teams about what developers actually need  
-🛠️ Creating open source developer tools  
+🚢 Writing **[Main Branch](https://mainbranch.beehiiv.com/)**  
+A weekly newsletter about dev tools and fundamentals (no AI hype, just features that help you ship)
+
+🎙️ Hosting  
+• **[The GitHub Podcast](https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194)**  
+• **[Open Source Friday](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P)**  
+• **[Checkout](https://www.youtube.com/playlist?list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW)**
+
+✍️ Writing for **[The GitHub Blog](https://github.blog/author/andreagriffiths11/)**  
+Topics: Copilot, developer workflows, security
+
+🧰 Building demos and working with product teams on what developers actually need
+
+🛠️ Creating open source developer tools
+
 
 ## 💡 Ask me about
 
