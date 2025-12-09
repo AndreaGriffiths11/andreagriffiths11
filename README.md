@@ -41,11 +41,6 @@ Topics: Copilot, developer workflows, security
     <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
 </a>
 
-## 📊 GitHub Stats
-
-![Andreagriffiths11's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreagriffiths11&count_private=true&show_icons=true&theme=radical)
-
-*Fun stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)*
 
 ## 🎨 Virtual Bio
 
