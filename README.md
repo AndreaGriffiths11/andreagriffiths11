@@ -1,59 +1,65 @@
 # Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths) 👋
 
-## What I'm working on
+I'm a Senior Developer Advocate at GitHub. I build developer tools, make games, and share what I learn about coding with AI. I create content in English and Spanish.
 
-🚢 Writing **[Main Branch](https://mainbranch.dev)**
-A weekly newsletter about GitHub features and fundamentals — now in [English](https://mainbranch.dev/newsletter/), [Spanish](https://mainbranch.dev/newsletter/es/), and [中文](https://github.com/AndreaGriffiths11/mainbranch-zh)
+Fundamentals first, always.
+
+## Things I've built
+
+- **[Agent Circuit](https://gh.io/race)**: A browser racing game featuring six coding agents and Blender-built characters. 
+- **[Claw Relay](https://github.com/AndreaGriffiths11/claw-relay)**: Connect AI agents to a real browser with scoped permissions, site restrictions, and audit logging.
+- **[Team X-Ray](https://github.com/AndreaGriffiths11/teamxray)**: A VS Code extension that uses git history to help you find who knows which parts of your codebase.
+- **[Proof Agent](https://github.com/AndreaGriffiths11/proof-agent)**: Give AI-generated changes to a separate agent for review, with evidence-backed verdicts.
+- **[publish-to-pages](https://github.com/AndreaGriffiths11/publish-to-pages)**: An agent skill that turns presentations and web content into live GitHub Pages sites. Also available in [github/awesome-copilot](https://github.com/github/awesome-copilot/tree/main/skills/publish-to-pages).
+
+## Writing and hosting
+
+🚢 Writing **[Main Branch](https://mainbranch.dev)**  
+A weekly newsletter about GitHub features and fundamentals, available in [English](https://mainbranch.dev/newsletter/), [Spanish](https://mainbranch.dev/newsletter/es/), and [中文](https://github.com/AndreaGriffiths11/mainbranch-zh).
 
 🎙️ Hosting
-• **[The GitHub Podcast](https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194)**
-• **[Open Source Friday](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P)**
-• **[Checkout](https://www.youtube.com/playlist?list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW)**
+- **[The GitHub Podcast](https://podcasts.apple.com/us/podcast/the-github-podcast/id1567016194)**
+- **[Open Source Friday](https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P)**
+- **[Checkout](https://www.youtube.com/playlist?list=PL0lo9MOBetEFHlePrJbm4e5XJV-_NSfgW)**
 
-✍️ Writing for **[The GitHub Blog](https://github.blog/author/andreagriffiths11/)**
-Topics: Copilot, developer workflows, security
+✍️ Writing for **[The GitHub Blog](https://github.blog/author/andreagriffiths11/)**  
+Copilot, developer workflows, and security, grounded in things I've built and problems I've worked through.
 
-🧰 Building demos and working with product teams on what developers actually need
+## Ask me about
 
-🛠️ Creating open source developer tools
-• **[Claw Relay](https://github.com/AndreaGriffiths11/claw-relay)** — A trust layer between AI agents and your real browser
-• **[Team X-Ray](https://github.com/AndreaGriffiths11/teamxray)** — VS Code extension for team contribution insights
-
-## 💡 Ask me about
-
-- GitHub features and workflows (PRs, Actions, Projects)
-- Developer advocacy and DevRel
-- Building developer communities
+- GitHub Copilot CLI and SDK
+- MCP, agent skills, and reviewing AI-generated changes
+- GitHub workflows: PRs, Actions, and Projects
+- Developer advocacy and building developer communities
 - Open source contribution and maintainership
 
-## 📬 Connect with me
+## Connect with me
 
 <a href="https://mainbranch.dev">
     <img src="https://img.shields.io/badge/Newsletter-Main_Branch-blue?style=flat&logo=substack" alt="Main Branch Newsletter"/>
 </a>
 <a href="https://www.youtube.com/@acolombiadev">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="26px"/>
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="26px" alt="YouTube"/>
 </a>
 <a href="https://www.linkedin.com/in/acolombiadev/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/acolombiadev">
-    <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px" alt="X"/>
 </a>
 <a href="https://dev.to/andreagriffiths11">
     <img src="https://img.shields.io/badge/dev.to-andreagriffiths11-black?style=flat&logo=devdotto" alt="Dev.to"/>
 </a>
 
-
-## 🎨 Virtual Bio
+## Virtual Bio
 
 ![Andreagriffiths11's bio](https://user-images.githubusercontent.com/20666190/122810850-d3338700-d29d-11eb-91cd-5b741f1df909.png)
 
 *Virtual Bio by [@carlogilmar](https://github.com/carlogilmar)*
 
-## 😎 Fun facts about me
+## Fun facts about me
 
-- Mom to two boys and two dogs 🐶🐶
+- Mom to two boys and one dog 🐶
 - My partner is Welsh 🏴
 - Former NCO in the US Army
 - Learned to code through [freeCodeCamp](https://www.freecodecamp.org/) during lunch breaks in 2016
@@ -61,7 +67,7 @@ Topics: Copilot, developer workflows, security
 - Proud founding member of [@octogatos](https://github.com/Octogatos)
 - I'm a breast cancer survivor
 
-## 🏆 Some highlights
+## Some highlights
 
 <p align="center">
 <img width="300" alt="Screen Shot 2021-05-06 at 8 33 17 AM" src="https://user-images.githubusercontent.com/20666190/117298862-d685c700-ae45-11eb-91af-cb7d28d2582e.png">
