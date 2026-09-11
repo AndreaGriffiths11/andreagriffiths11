@@ -1,8 +1,12 @@
 # Hiya! I'm [Andrea](https://github.com/readme/andrea-griffiths) 👋
 
-I'm a Senior Developer Advocate at GitHub. I build developer tools, make games, and share what I learn about coding with AI. I create content in English and Spanish.
+I'm a Senior Developer Advocate at GitHub. I build developer tools, make games, and help developers learn from each other. I create content in English and Spanish, from Git fundamentals to putting AI to work alongside our skills, creativity, and judgment.
 
 Fundamentals first, always.
+
+<a href="https://aaif.io/ambassadors">
+  <img src="https://cdn.sanity.io/images/4o10fa7h/production/2dafc4212758bfcb3ee57d0a45a965d7540c10a9-470x481.png" width="180" alt="AAIF Ambassador"/>
+</a>
 
 ## Things I've built
 
